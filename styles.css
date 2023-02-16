@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-image: url(https://images.hindustantimes.com/tech/img/2021/07/22/960x540/erik-witsoe-mODxn7mOzms-unsplash_1626954016266_1626954035264.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.forms{
+    padding-top: 10%;
+
+}
+h1{
+    font-size: 30px;
+    color: blue;
+}
+.btn{
+    border-radius: -2px;
+    
+}
